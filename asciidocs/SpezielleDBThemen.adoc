@@ -4,3 +4,38 @@ Tamara Melcher
 :toc:
 :icons: font
 :url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+
+== OLTP
+
+== OLAP
+
+== Data Warehouse
+
+== ETL
+
+== DW-Schema (Snowflake,...)
+
+== Cubes
+
+== Cube-Ops
+
+== ORM (Vor-, Nachteil) • JPA (Annotationen,...)
+
+=== Uni- und bidrektional, Kardinalitäten
+
+=== Vererbung
+
+== NoSQL
+
+=== DB Types
+
+== Skalierung (Vertical/Horizontal)
+
+== Big Data 5 Vs
+
+== Map Reduce
+
+== BASE
+
+== Embedded/Reference

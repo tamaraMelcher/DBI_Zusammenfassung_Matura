@@ -4,3 +4,25 @@ Tamara Melcher
 :toc:
 :icons: font
 :url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+
+== Joins
+
+== Group by
+
+== Subquery
+
+== Operatoren
+
+== Mengenops
+
+== Insert
+
+=== Bulk Insert
+
+== Update
+
+== Delete
+
+== Connect By / CTE
+

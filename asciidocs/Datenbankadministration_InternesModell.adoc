@@ -4,3 +4,28 @@ Tamara Melcher
 :toc:
 :icons: font
 :url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+
+== Logische Datenstrukturen
+
+== Physische Datenstrukturen
+
+== Datenbankprozesse
+
+== Backup & Recovery
+
+== Primär und Sekundärspeicher
+
+== Bäume
+
+== Physische Implementierungen (Hash Join,...)
+
+== DB Buffer
+
+== Statistiken
+
+== Optimizer / Hints
+
+== Tablespace
+
+== DB Blocks

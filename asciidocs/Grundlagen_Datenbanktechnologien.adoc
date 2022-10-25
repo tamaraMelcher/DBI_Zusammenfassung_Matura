@@ -4,3 +4,29 @@ Tamara Melcher
 :toc:
 :icons: font
 :url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+== Eigenschaften von DB
+
+== Vor- und Nachteile
+
+== Arten von DB
+
+=== Histologische Entwicklung
+
+== ERDs
+
+== Begriffe (DBS,...)
+
+== 3 Ebenen
+
+== Kardinalitäten
+
+== ACID/Transaktion
+
+== Redundanz
+
+== Datenunabhängigkeit
+
+== Parallel & Rekursive Beziehung
+
+

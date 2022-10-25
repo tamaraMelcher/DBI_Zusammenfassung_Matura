@@ -4,3 +4,10 @@ Tamara Melcher
 :toc:
 :icons: font
 :url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+== Isolation Levels (Snapshot,...)
+== Locks (inkl. Timestamp, 2 Phase, MGL) • Deadlock
+== Optimistic/Pessimistic Locking
+== Phantom Problem
+== Lost Update, Dirty Read,...
+== Transaktion

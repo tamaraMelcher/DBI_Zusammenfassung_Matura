@@ -4,3 +4,19 @@ Tamara Melcher
 :toc:
 :icons: font
 :url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+
+== XML
+== JSON
+== YAML
+== Binary (ProtoBuf)
+== Einsatzbereiche
+== DTD/XSD
+== XPath/XQuery
+== PL/SQL
+=== Cursor
+=== Collections
+=== Loops
+=== Variables, (Row)Type ◦ Exceptions
+=== Packages
+== Trigger in allen Formen
