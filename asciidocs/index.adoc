@@ -1,0 +1,41 @@
+= DBI Matura Zusammenfassung
+Tamara Melcher
+25.Oktober 2022
+:toc:
+:icons: font
+:url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+
+== Grundlagen der Datenbanktechnologien
+
+<<Grundlagen_Datenbanktechnologien.adoc#, Grundlagen der Datenbanktechnologien>>
+
+== Konzeptionelles Modell
+
+<<Konzeptionelles_Modell.adoc#, Konzeptionelles Modell>>
+
+== SQL Data Retrieval and DML
+
+<<SQL_Data_Retrieval_DML.adoc#, SQL Data Retrieval und DML>>
+
+== SQL, DCL und DDL
+
+<<SQL_DCL_DDL.adoc#, SQL DCL und DDL>>
+
+== Datenbankadministration und internes Modell (Pool 5 also -> eher nicht)
+
+<<Datenbankadministration_InternesModell.adoc#, Datenbankadministration und internes Modell>>
+
+== Semistrukturierte Daten und prozedurale Erweiterungen
+
+<<SemistrukturierteDaten_ProzeduraleErweiterungen.adoc#, Semistrukturierte Daten und prozedurale Erweiterungen>>
+
+== Spezielle DB Themen
+
+<<SpezielleDBThemen.adoc#, Spezielle DB Themen>>
+
+== Die 'Multiuser-Eigenschaften' von Datenbanken und Concurrency
+
+<<Multiuser_Concurrency.adoc#, Die 'Multiuser-Eigenschaften' von Datenbanken und Concurrency>>
+
+
